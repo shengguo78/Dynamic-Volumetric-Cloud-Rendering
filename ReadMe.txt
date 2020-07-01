@@ -43,6 +43,9 @@ and threaded with Intel(R) Threading Building Blocks.
 
 Rendering is performed with billboard technology using DirectX 9.*
 
+For detailed information on this sample, please visit:
+https://software.intel.com/content/www/us/en/develop/articles/dynamic-volumetric-cloud-rendering-for-games-on-multi-core-platforms.html
+
 
 Build Prerequisites
 -------------------
@@ -71,7 +74,7 @@ Build Environment
 	Prerequisite: Intel(R) C++ Compiler
 	------------------------------------------------
 		If you want to enable the SSE optimization options, you should install the Intel(R) C++ Compiler to compile the SSE intrinsics codes.
-		Download Intel® C++ Compiler from : http://software.intel.com/en-us/articles/intel-software-evaluation-center/#compilers
+		Download IntelÂ® C++ Compiler from : http://software.intel.com/en-us/articles/intel-software-evaluation-center/#compilers
 
 Code & User Interface
 ---------------------
